@@ -4,14 +4,6 @@
 
 Rock Paper Scissors is a timeless hand game enjoyed by people of all ages. This project brings the classic game to life on Android devices, offering a simple and engaging experience. Players challenge the computer by choosing Rock, Paper, or Scissors, and the outcome is determined based on the well-known rules of the game.
 
-### Prerequisites
-
-Before diving into the code, ensure you have the following:
-
-* **Android Studio:** Download and install the latest version of Android Studio from the official website ([https://developer.android.com/studio/intro](https://developer.android.com/studio/intro)). This is the Integrated Development Environment (IDE) you'll use to create and manage Android applications.
-* **Basic Understanding of Kotlin:** Familiarity with Kotlin, a modern programming language for Android development, is beneficial.  You can find resources and tutorials online to learn Kotlin basics. 
-* **Android Device or Emulator:**  You'll need a physical Android device connected to your computer via USB or a configured Android emulator within Android Studio to run the app.
-
 ### Understanding the Code Structure
 
 The core functionality of the game resides in the `MainActivity` class written in Kotlin. Let's break down the code step-by-step:
@@ -211,3 +203,7 @@ The provided code offers a basic implementation of the Rock Paper Scissors game.
 This comprehensive guide has delved into the code structure, functionalities, and potential enhancements for the Rock Paper Scissors game implemented in Kotlin for Android. By understanding the core logic and exploring the suggested improvements, you can build upon this foundation to create a more engaging and feature-rich game experience.
 
 Remember, this is just a starting point. As you gain more programming knowledge, you can explore various libraries and frameworks available in the Android development ecosystem to further enhance the game's visuals, sound effects, and overall user experience.
+
+https://youtube.com/shorts/Ls8havWQQ_A
+
+this is a demonstration video 
